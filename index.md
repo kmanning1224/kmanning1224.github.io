@@ -13,7 +13,7 @@
 
 ---
 [SQL-Alchemy Project (PostgresSQL, SQLAlchemy, Python)](https://github.com/kmanning1224/sqlalchemy-challenge)
-<img src="https://github.com/kmanning1224/sqlalchemy-challenge/blob/master/Images/daily-normals.png"/>
+<img src="https://i.gyazo.com/53f65a6820db7c8367e1f6aedfb64c18.png"/>
 
 ---
 
