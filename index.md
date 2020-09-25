@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-:-: ### Projects
+## Projects
 
 ##### [The Avocado Project](https://github.com/kmanning1224/Project1-Repo)<br><br>
 <img src="https://i.gyazo.com/1c175e91cfbfd6afd4290ee3761e7753.png"/> 
