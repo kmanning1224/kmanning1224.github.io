@@ -30,8 +30,6 @@
 
 ---
 ## Skills
-
-Skills:<br>
  - Networking and collaboration
 - Budgeting and cost control
 - Attention to detail
@@ -41,8 +39,9 @@ Skills:<br>
 - Model data
 - Industry research
 - Analyze trends
-- Competitive analysis<br><br>
-Technical Skills:<br>
+- Competitive analysis
+
+## Technical Skills:
 - Python
 - Javascript
 - Matplotlib
@@ -53,7 +52,7 @@ Technical Skills:<br>
 - Microsoft Office Suite
 - Git Bash
 - Google API
-- MongoDB <br><br><br>
+- MongoDB 
 
 
 
