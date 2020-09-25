@@ -29,7 +29,31 @@
 - [Built a Website to display Weather Plots (HTML, CSV)](http://example.com/)
 
 ---
+## Skills
 
+Skills:<br>
+ - Networking and collaboration
+- Budgeting and cost control
+- Attention to detail
+- Verbal communication
+- Problem-solving
+- Multitasking
+- Model data
+- Industry research
+- Analyze trends
+- Competitive analysis<br><br>
+Technical Skills:<br>
+- Python
+- Javascript
+- Matplotlib
+- Pandas
+- Plotly
+- PostgreSQL
+- SQLAlchemy
+- Microsoft Office Suite
+- Git Bash
+- Google API
+- MongoDB <br><br><br>
 
 
 
