@@ -36,21 +36,9 @@ Multitasking  |  Model data  |  Industry research  |  Analyze trends  | Competit
 | Python  | Javascript  | Matplotlib  |  Pandas | Plotly | PostgreSQL | SQLAlchemy | Microsoft Office |  Git Bash | Google API  | MongoDB |
 
 
-## Technical Skills:
-- Python
-- Javascript
-- Matplotlib
-- Pandas
-- Plotly
-- PostgreSQL
-- SQLAlchemy
-- Microsoft Office Suite
-- Git Bash
-- Google API
-- MongoDB 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:7px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
