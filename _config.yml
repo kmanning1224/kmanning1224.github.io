@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   A reliable team member and leader accustomed to taking on challenging tasks. 
   I'm dedicated to business success and analyzing information. 
   <br><br>
-  Skills:<BR>
+  Skills:<br>
  - Networking and collaboration
 - Budgeting and cost control
 - Attention to detail
@@ -17,8 +17,8 @@ description: > # your text below (remove <br> elements if you don't need line br
 - Model data
 - Industry research
 - Analyze trends
-- Competitive analysis<BR><BR>
-Technical Skills:<BR>
+- Competitive analysis<br><br>
+Technical Skills:<br>
 - Python
 - Javascript
 - Matplotlib
@@ -29,7 +29,7 @@ Technical Skills:<BR>
 - Microsoft Office Suite
 - Git Bash
 - Google API
-- MongoDB <BR><BR><BR>
+- MongoDB <br><br><br>
   <a href="https://www.linkedin.com/in/kittlekaboot/">View My LinkedIn Profile</a> <BR><BR><BR>
   
 theme: jekyll-theme-minimal
