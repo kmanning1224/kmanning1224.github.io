@@ -30,11 +30,12 @@
 
 ---
 ## Skills
-| - Networking and collaboration  | - Budgeting and cost control  | - Attention to detail  |  - Verbal communication | - Problem-solving  |
+| Networking and collaboration  | Budgeting and cost control  | Attention to detail  |  Verbal communication | Problem-solving  |
+| Multitasking  | Model data  |  Industry research | Analyze trends  | Competitive analysis  |
 |---|---|---|---|---|
-| - Multitasking  | - Model data  |  - Industry research | - Analyze trends  | - Competitive analysis  |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Python  | Javascript  | Matplotlib  |  Pandas | Plotly  |
+| PostgreSQL  | SQLAlchemy  | Microsoft Office |  Git Bash | Google API  |
+| MongoDB|
 
 
 ## Technical Skills:
