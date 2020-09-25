@@ -5,7 +5,7 @@
 ### Big Projects
 
 [The Avocado Project](https://github.com/kmanning1224/Project1-Repo)
-<img src="https://i.gyazo.com/5d57a74db26f7f5d0a8a41a18b9d295c.png"/> ### Python, Pandas, Matplotlib, Seaborn, Microsoft Office
+<img src="https://i.gyazo.com/1c175e91cfbfd6afd4290ee3761e7753.png"/> ### Python, Pandas, Matplotlib, Seaborn, Microsoft Office
 
 ---
 [ETL - Project (Unemployment Rates CA, NY, FL)](https://kmanning1224.github.io/ETL-project/)
