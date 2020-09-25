@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The Avocado Project](https://github.com/kmanning1224/Project1-Repo)
+<img src="https://i.gyazo.com/5d57a74db26f7f5d0a8a41a18b9d295c.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ETL - Project (Unemployment Rates CA, NY, FL](https://kmanning1224.github.io/ETL-project/)
+<img src="https://i.gyazo.com/a0014a527cf3ad4cd99ec5d24dd543e9.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SQL-Alchemy Project](https://github.com/kmanning1224/sqlalchemy-challenge)
+<img src="https://github.com/kmanning1224/sqlalchemy-challenge/blob/master/Images/daily-normals.png"/>
 
 ---
 
