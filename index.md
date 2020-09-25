@@ -5,15 +5,15 @@
 ### Big Projects
 
 [The Avocado Project](https://github.com/kmanning1224/Project1-Repo)
-<img src="https://i.gyazo.com/5d57a74db26f7f5d0a8a41a18b9d295c.png"/>[(Python, Pandas, Matplotlib, Seaborn, Microsoft Office)]
+<img src="https://i.gyazo.com/5d57a74db26f7f5d0a8a41a18b9d295c.png"/> ### Python, Pandas, Matplotlib, Seaborn, Microsoft Office
 
 ---
 [ETL - Project (Unemployment Rates CA, NY, FL)](https://kmanning1224.github.io/ETL-project/)
-<img src="https://i.gyazo.com/a0014a527cf3ad4cd99ec5d24dd543e9.png"/>[ (Python, MongoDB, Pandas, Flask, HTML)]
+<img src="https://i.gyazo.com/a0014a527cf3ad4cd99ec5d24dd543e9.png"/> ### Python, MongoDB, Pandas, Flask, HTML
 
 ---
 [SQL-Alchemy Project](https://github.com/kmanning1224/sqlalchemy-challenge)
-<img src="https://i.gyazo.com/53f65a6820db7c8367e1f6aedfb64c18.png"/>[(PostgresSQL, SQLAlchemy, Python)]
+<img src="https://i.gyazo.com/53f65a6820db7c8367e1f6aedfb64c18.png"/> ### PostgresSQL, SQLAlchemy, Python
 
 ---
 
