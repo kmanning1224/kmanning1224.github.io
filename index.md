@@ -21,7 +21,7 @@
 ### Other Data Work
 
 - [SQL Work (PostgresSQL, Python, Pandas)](https://github.com/kmanning1224/sql-challenge)
-- [Working with Javascript to build filtered table website(Javascript, HTML)](https://github.com/kmanning1224/intro-to-javascript)
+- [Working with Javascript to build filtered table website(Javascript, HTML)](https://kmanning.github.io/intro-to-javascript)
 - [Working with API's to filter and plot weather data(Flask, Python, Pandas)](https://github.com/kmanning1224/python-api-challenge)
 - [Creating working website with Javascript to observe Bellybutton BioDiversity(Javascript, HTML)](https://kmanning1224.github.io/bellybutton-diversity/)
 - [Built a Website to display Weather Plots (HTML, CSV)](http://example.com/)
