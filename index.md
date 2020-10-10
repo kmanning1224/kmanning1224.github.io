@@ -13,7 +13,7 @@
 
 ---
 ##### [Sex Trafficking/Assault Project](https://assaultdb.herokuapp.com/)<br><br>
-<img src="https://gyazo.com/545995589a34f3374661c38940d5bf06"/> 
+<img src="https://i.gyazo.com/545995589a34f3374661c38940d5bf06.png"/> 
 ##### Python, Flask, Heroku, Javascript, HTML, CSS, SQL
 
 ---
