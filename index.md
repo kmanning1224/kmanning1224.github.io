@@ -2,9 +2,9 @@
 
 ---
 #### [Sex Trafficking/Assault Project](https://assaultdb.herokuapp.com/)<br>
-#### Awards Recieved for this Project: 
-##### [Award for Honest and Compelling Statistics](https://i.gyazo.com/a6a895ec1ec05fabff10b21ef58efec0.png) 
-##### [Award for "Presenting a Call to Action!"](https://i.gyazo.com/2ac3382b0bbd4fafdaee29c1a94575f5.png)
+##### Awards Recieved for this Project: 
+###### [Award for Honest and Compelling Statistics](https://i.gyazo.com/a6a895ec1ec05fabff10b21ef58efec0.png) 
+###### [Award for "Presenting a Call to Action!"](https://i.gyazo.com/2ac3382b0bbd4fafdaee29c1a94575f5.png)
 <img src="https://i.gyazo.com/545995589a34f3374661c38940d5bf06.png"/> 
 ##### Python, Flask, Heroku, Javascript, HTML, CSS, SQL
 
