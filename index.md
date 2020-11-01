@@ -1,17 +1,6 @@
 # Portfolio
 
 ---
-
-#### [The Avocado Project](https://github.com/kmanning1224/Project1-Repo)<br><br>
-<img src="https://i.gyazo.com/1c175e91cfbfd6afd4290ee3761e7753.png"/> 
-##### Python, Pandas, Matplotlib, Seaborn, Microsoft Office
-
----
-#### [ETL - Project (Unemployment Rates CA, NY, FL)](https://kmanning1224.github.io/ETL-project/)<br><br>
-<img src="https://i.gyazo.com/a0014a527cf3ad4cd99ec5d24dd543e9.png"/> 
-##### Python, MongoDB, Pandas, Flask, HTML
-
----
 #### [Sex Trafficking/Assault Project](https://assaultdb.herokuapp.com/)<br><br>
 <img src="https://i.gyazo.com/545995589a34f3374661c38940d5bf06.png"/> 
 ##### Python, Flask, Heroku, Javascript, HTML, CSS, SQL
@@ -19,6 +8,14 @@
 ##### [Award for Honest and Compelling Statistics](https://i.gyazo.com/a6a895ec1ec05fabff10b21ef58efec0.png) 
 ##### [Award for "Presenting a Call to Action!"](https://i.gyazo.com/2ac3382b0bbd4fafdaee29c1a94575f5.png)
 
+---
+#### [The Avocado Project](https://github.com/kmanning1224/Project1-Repo)<br><br>
+<img src="https://i.gyazo.com/1c175e91cfbfd6afd4290ee3761e7753.png"/> 
+##### Python, Pandas, Matplotlib, Seaborn, Microsoft Office
+---
+#### [ETL - Project (Unemployment Rates CA, NY, FL)](https://kmanning1224.github.io/ETL-project/)<br><br>
+<img src="https://i.gyazo.com/a0014a527cf3ad4cd99ec5d24dd543e9.png"/> 
+##### Python, MongoDB, Pandas, Flask, HTML
 ---
 
 ### Other Data Work
