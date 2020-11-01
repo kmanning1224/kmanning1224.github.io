@@ -28,7 +28,7 @@
 - [Working with API's to filter and plot weather data(Flask, Python, Pandas)](https://github.com/kmanning1224/python-api-challenge)
 - [Creating working website with Javascript to observe Bellybutton BioDiversity(Javascript, HTML)](https://kmanning1224.github.io/bellybutton-diversity/)
 - [Built a Website to display Weather Plots (HTML, CSV)](https://kmanning1224.github.io/web-design-challenge)
-- [Worked with Planet Dataset to run ML Linear Regression and Logistic training](https://github.com/kmanning1224/machine-learning-challenge)
+- [Worked with Planet Dataset to run ML Linear Regression and Logistic training(Sklearn, Pandas, Google Colab, Python)](https://github.com/kmanning1224/machine-learning-challenge)
 
 ---
 ## Skills
