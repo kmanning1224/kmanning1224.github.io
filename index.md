@@ -8,7 +8,10 @@
 <img src="https://i.gyazo.com/545995589a34f3374661c38940d5bf06.png"/> 
 ##### Python, Flask, Heroku, Javascript, HTML, CSS, SQL
 
-
+---
+### [Dog Classification Project](https://kmanning1224.github.io/Dog-Breed-Classification/)
+* Note that the app is still a work in progress, please feel free to clone the repo to use it for testing Xception's capabilities.
+##### Python, Flask, Ajax, Javascript, HTML, CSS, S3, Bootstrap
 ---
 #### [The Avocado Project](https://github.com/kmanning1224/Project1-Repo)<br><br>
 <img src="https://i.gyazo.com/1c175e91cfbfd6afd4290ee3761e7753.png"/> 
