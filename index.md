@@ -39,9 +39,9 @@
 ---
 ## Skills
 Python  | Javascript  | Matplotlib  |  Pandas | Plotly | PostgreSQL | SQLAlchemy | Microsoft Office |  Git Bash | Google API  | MongoDB | Machine Learning | AWS
-
-
-
+<br><br>
+## Currently Learning
+Node.js | React | Java 
 
 
 ---
