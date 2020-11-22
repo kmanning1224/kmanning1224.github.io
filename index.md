@@ -10,10 +10,10 @@
 
 ---
 
-### [Dog Classification Project](https://kmanning1224.github.io/Dog-Breed-Classification/)
+### [Dog Classification Project](https://dogclproject.herokuapp.com/)
 <img src="https://i.gyazo.com/6055231878145a6992574328c6202688.png"/>
 <img src="https://i.gyazo.com/ca81dd5e36cddd129aaf3bb76b33eb5e.png"/>
-*Note that the app is still a work in progress, please feel free to clone the repo to use it for testing Xception's capabilities.
+
 
 ##### Python, Flask, Ajax, Javascript, HTML, CSS, S3, Bootstrap
 
