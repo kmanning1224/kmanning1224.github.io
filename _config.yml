@@ -1,9 +1,9 @@
 title: Katherine Manning # your name (or website title) here
 logo: "https://i.ibb.co/1G7XCkb/20201030-133206.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <li>Aspiring Fullstack Dev, Video Game nerd, and owner of weird pets.</li> <br> <li>Experience working as a retail Manager and 
-  Data Analyst. </li>
-  <br>
+  <li><ul>Aspiring Fullstack Dev, Video Game nerd, and owner of weird pets.</ul></li> <br> <li><ul>Experience working as a retail Manager and 
+  Data Analyst.</ul> </li>
+  <br><br><br><br>
   
   <a href="https://www.linkedin.com/in/katmanning00/">View My LinkedIn Profile</a> <br><br>
   <a href="mailto:kat.m.manning94@gmail.com">Email Me</a>
