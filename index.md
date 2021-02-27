@@ -41,7 +41,7 @@
 Python  | Javascript  | Matplotlib  |  Pandas | Plotly | NoSQL | SQL | Microsoft Office |  Git Bash | Google API  | MongoDB | Machine Learning | AWS
 <br><br>
 ## Currently Learning
-Node.js | React | Java | Microsoft Azure | SharePoint
+Node.js | React | Java | Microsoft Azure | SharePoint | C
 
 
 ---
